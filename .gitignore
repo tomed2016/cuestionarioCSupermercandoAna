@@ -1,0 +1,25 @@
+# Archivos compilados en C (ejecutables y objetos)
+*.out
+*.exe
+*.o
+*.obj
+bin/
+obj/
+build/
+
+# Archivos de registro y temporales
+*.log
+*.tmp
+*.temp
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Configuración específica de Visual Studio Code (opcional, manteniendo ajustes útiles)
+.vscode/*
+!.vscode/c_cpp_properties.json
+!.vscode/launch.json
+!.vscode/settings.json
+!.vscode/tasks.json
+
